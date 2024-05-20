@@ -1,0 +1,4 @@
+# Simple Project
+This project aims to gather all XML files that contains UMBS or UM Biological Station as the keyword, title or location.
+
+# **Using this program**
